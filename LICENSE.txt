@@ -1,0 +1,8 @@
+
+This gives you:
+- A clean contract file.
+- A complete README with:
+  - Plain‑English explanation.
+  - Remix usage instructions.
+  - Optional Hardhat hint.
+  - Ready for GitHub.
